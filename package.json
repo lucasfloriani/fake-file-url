@@ -1,6 +1,6 @@
 {
   "name": "fake-file-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a fake url from file content in base64",
   "files": [
     "dist/**/*",
