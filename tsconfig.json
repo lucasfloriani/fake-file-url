@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "ES5",
+    "module": "commonjs",
+    "declaration": true,
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
