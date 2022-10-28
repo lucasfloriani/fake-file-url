@@ -15,5 +15,5 @@ const fakeUrl = createBlob(pdfFileContentInBase64, 'application/pdf');
 
 // ...
 
-return <a href={fakeURL}>Download PDF file</a>;
+return <a href={fakeURL} download>Download PDF file</a>;
 ```
